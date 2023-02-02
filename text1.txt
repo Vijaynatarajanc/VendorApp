@@ -6,3 +6,10 @@ I added few lines
 
 2) I learn Something Include git Commands
 
+ * git add
+  
+ * git init
+  
+* git commit
+
+
